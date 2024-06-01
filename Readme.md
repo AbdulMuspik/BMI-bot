@@ -82,10 +82,10 @@ bmi-calculator/
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots:home.png)
+![Home Page](/screenshots:home.png)
 
 ### Result Page
-![Result Page](screenshots:result.png)
+![Result Page](/screenshots:result.png)
 
 ## License
 
